@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega8A"</DEVICE>
+ <WORKING_DIR>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/download\7.0\Packs\Atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\download\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/download\7.0\Packs\Atmel\ATmega_DFP\1.7.374\avrasm\inc\m8Adef.inc</FILE>
+  <FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\macros.asm</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\Debug\BerilKöse_lab8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>BerilKöse_lab8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>BerilKöse_lab8.map</FILE>
+  <FILE>BerilKöse_lab8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>5</LINE></RESET>
+  <TRANSMIT><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>88</LINE></TRANSMIT>
+  <MAIN><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>41</LINE></MAIN>
+  <HELP_MSG><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>77</LINE></HELP_MSG>
+  <LED_ON><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>68</LINE></LED_ON>
+  <LED_OFF><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>72</LINE></LED_OFF>
+  <SEND_CHAR><FILE>D:\download\MicrochipStudioProjects\BerilKöse_lab8\BerilKöse_lab8\main.asm</FILE><LINE>64</LINE></SEND_CHAR>
+ </LABELS>
+</ASSEMBLER_INFO>
