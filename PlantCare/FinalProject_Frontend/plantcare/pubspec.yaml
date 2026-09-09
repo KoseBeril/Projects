@@ -1,0 +1,35 @@
+name: plantcare
+description: "A new Flutter project."
+publish_to: 'none' 
+
+
+
+environment:
+  sdk: ^3.12.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.4.0
+  image_picker: ^1.0.7
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  mqtt_client: ^10.1.0
+  table_calendar: ^3.1.0
+  intl: ^0.19.0 # Tarih formatlama için
+  permission_handler: ^11.0.1
+  shared_preferences:
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
